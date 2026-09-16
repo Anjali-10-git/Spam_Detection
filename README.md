@@ -1,4 +1,7 @@
 # Spam_Detection
+
+🚨Try the Spam Detection App: https://spamdetection-qsxdpzfwzib2ytsdxndai4.streamlit.app/
+
 A simple Spam Detection Web Application built with Python, Scikit-learn, and Streamlit. The application analyzes email/SMS text and predicts whether the message is Spam or Not Spam (Ham).
 
 Technologies Used
@@ -28,3 +31,5 @@ Spam signal analysis
 Final classification
         ↓
 Spam / Not Spam
+
+
